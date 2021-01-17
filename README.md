@@ -1,4 +1,4 @@
-<img src="callsign.png">
+<div style="text-align: center;"><img src="callsign.png"></div>
 
 [个人博客 Blog](https://mikukonai.com/) / [业余电台 Amateur radio station](https://bd4sur.cc/) / [Twitter](https://twitter.com/BD4SUR)
 
